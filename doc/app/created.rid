@@ -1,0 +1,9 @@
+Tue, 18 Oct 2016 13:33:39 +0000
+README.rdoc	Fri, 14 Oct 2016 19:17:08 +0000
+app/controllers/application_controller.rb	Fri, 14 Oct 2016 17:51:11 +0000
+app/controllers/contacts_controller.rb	Mon, 17 Oct 2016 21:08:11 +0000
+app/controllers/pages_controller.rb	Fri, 14 Oct 2016 19:17:08 +0000
+app/helpers/application_helper.rb	Fri, 14 Oct 2016 17:51:11 +0000
+app/helpers/pages_helper.rb	Fri, 14 Oct 2016 19:02:31 +0000
+app/mailers/contact_mailer.rb	Tue, 18 Oct 2016 13:32:32 +0000
+app/models/contact.rb	Mon, 17 Oct 2016 21:02:47 +0000
