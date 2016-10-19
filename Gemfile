@@ -14,10 +14,9 @@ end
 
 # Use figaro to hide secret keys
 gem 'figaro', '1.0.0'
-
-# Use stripe for credit card processing
+# Use stripe for payments
 gem 'stripe', '1.16.1'
-# Use devise 
+# Use devise for user authentication
 gem 'devise', '3.4.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.3'
