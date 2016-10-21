@@ -12,6 +12,8 @@ group :production do
     gem 'rails_12factor'
 end
 
+# Use autoprefixer for universal css compatibility
+#gem 'autoprefixer-rails'
 # Use paperclip for image upload
 gem 'paperclip', '4.2.1'
 # Use figaro to hide secret keys
